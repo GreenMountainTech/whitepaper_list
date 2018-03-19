@@ -1,5 +1,5 @@
 # Crypto coins and tokens whitepaper
-[A](#a) [B](#b) [C](#c) [E](#e) [L](#l) [N](#n) [R](#r)
+[A](#a) [B](#b) [C](#c) [E](#e) [I](#i) [L](#l) [N](#n) [R](#r) [S](#s)
 
 ## A
 
@@ -19,9 +19,19 @@ same as [bitcoin](#bitcoin-btc)
 
 ## E
 
+### EOS (EOS)
+
+[EOS whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+
 ### Ethereum (ETH)
 
 https://github.com/ethereum/wiki/wiki/White-Paper
+
+## I
+
+### IOTA (MIOTA)
+
+[IOTA whitepaper](https://iota.org/IOTA_Whitepaper.pdf)
 
 ## L
 
@@ -30,6 +40,10 @@ https://github.com/ethereum/wiki/wiki/White-Paper
 bitcoin clone, same [whitepaper](#bitcoin-btc)
 
 ## N
+
+### NEO (NEO)
+
+[NEO whitepaper](http://docs.neo.org/en-us/)
 
 ### Nxt (NXT)
 
@@ -40,3 +54,9 @@ bitcoin clone, same [whitepaper](#bitcoin-btc)
 ### Ripple (XRP)
 
 [Ripple consensus algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
+
+## S
+
+### Stellar (XLM)
+
+[Stellar whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
