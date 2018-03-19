@@ -1,5 +1,5 @@
 # Crypto coins and tokens whitepaper
-[A](#a) [B](#b) [E](#e) [N](#n) [R](#r)
+[A](#a) [B](#b) [C](#c) [E](#e) [L](#l) [N](#n) [R](#r)
 
 ## A
 
@@ -11,7 +11,11 @@ https://bitcoin.org/bitcoin.pdf
 
 ### Bitcoin Cash (BCC/BCH)
 
-same as bitcoin
+same as [bitcoin](#bitcoin-btc)
+
+## C
+
+### Cardano (ADA)
 
 ## E
 
@@ -23,7 +27,7 @@ https://github.com/ethereum/wiki/wiki/White-Paper
 
 ### Litecoin (LTC)
 
-bitcoin clone, same whitepaper
+bitcoin clone, same [whitepaper](#bitcoin-btc)
 
 ## N
 
