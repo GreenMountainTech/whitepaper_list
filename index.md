@@ -1,5 +1,5 @@
 # Crypto coins and tokens whitepaper
-[A](#a) [B](#b) [C](#c) [E](#e) [I](#i) [L](#l) [N](#n) [R](#r) [S](#s)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [I](#i) [L](#l) [M](#m) [N](#n) [O](#o) [R](#r) [S](#s) [T](#t)
 
 ## A
 
@@ -23,6 +23,14 @@ same as [bitcoin](#bitcoin-btc)
 
 https://www.cardano.org/
 
+## D
+
+### Dash (DASH)
+
+https://www.dash.org
+
+[Dash whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper)
+
 ## E
 
 ### EOS (EOS)
@@ -37,6 +45,10 @@ https://ethereum.org
 
 [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
+### Ethereum Classic (ETC)
+
+https://ethereumclassic.github.io
+
 ## I
 
 ### IOTA (MIOTA)
@@ -46,6 +58,10 @@ https://iota.org
 [IOTA whitepaper](https://iota.org/IOTA_Whitepaper.pdf)
 
 ## L
+
+### Lisk (LSK)
+
+https://lisk.io
 
 ### Litecoin (LTC)
 
@@ -63,6 +79,12 @@ https://getmonero.org
 
 ## N
 
+### NEM (XEM)
+
+https://nem.io
+
+[NEM whitepaper](https://nem.io/NEM_techRef.pdf)
+
 ### NEO (NEO)
 
 https://neo.org
@@ -74,6 +96,20 @@ https://neo.org
 https://nxtplatform.org
 
 [Nxt whitepaper](https://www.dropbox.com/s/cbuwrorf672c0yy/NxtWhitepaper_v122_rev4.pdf)
+
+## O
+
+### OmiseGO (OMG)
+
+https://omisego.network
+
+[OmiseGo whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf)
+
+## Q
+
+### Qtum (QTUM)
+
+https://qtum.org
 
 ## R
 
@@ -90,3 +126,21 @@ https://ripple.com
 https://www.stellar.org
 
 [Stellar whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+
+## T
+
+### Tether (USDT)
+
+https://tether.to
+
+[Tether whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf)
+
+### Tron (TRX)
+
+https://tron.network/enindex.html
+
+## V
+
+### VeChain (VEN)
+
+https://www.vechain.org/
