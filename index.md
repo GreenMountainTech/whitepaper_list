@@ -1,5 +1,5 @@
 # Crypto coins and tokens whitepaper
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [I](#i) [L](#l) [M](#m) [N](#n) [O](#o) [R](#r) [S](#s) [T](#t)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [I](#i) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t)
 
 ## A
 
@@ -104,6 +104,14 @@ https://nxtplatform.org
 https://omisego.network
 
 [OmiseGo whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf)
+
+## P
+
+### Pascal Coin (PASC)
+
+http://www.pascalcoin.org
+
+[Pascal Coin whitepaper](http://www.pascalcoin.org/wp-content/uploads/2017/07/PascalCoinWhitePaperV2.pdf)
 
 ## Q
 
