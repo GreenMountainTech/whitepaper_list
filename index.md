@@ -5,6 +5,12 @@
 
 ## B
 
+### Binance Coin (BNB)
+
+https://www.binance.com
+
+[Binance whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf)
+
 ### Bitcoin (BTC)
 
 https://bitcoin.org
@@ -16,6 +22,10 @@ https://bitcoin.org
 https://www.bitcoincash.org
 
 same as [bitcoin](#bitcoin-btc)
+
+### Bitcoin Gold (BTG)
+
+https://bitcoingold.org
 
 ## C
 
@@ -78,6 +88,12 @@ https://getmonero.org
 [Monero whitepaper](https://cryptonote.org/whitepaper.pdf)
 
 ## N
+
+### Nano (NANO)
+
+https://nano.org
+
+[Nano whitepaper](https://nano.org/en/whitepaper)
 
 ### NEM (XEM)
 
